@@ -7,7 +7,7 @@
    をぐに 33.3%                                                                                                 
    オグニ 16.7% 
   
-(seriously how the fuck is this usually pronounced? I would *guess* 小国 when alone and 小国 when part
+(seriously, how is this usually pronounced? I would *guess* しょうこく when alone and おぐに when part
 of a larger compound such as 小国町 because typing しょうこく in Mozc has a top suggestion of 小国, while
 typing おぐに has a top suggestion of 小国町 and the second suggestion is 小国.)
 
