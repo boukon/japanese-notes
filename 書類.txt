@@ -1,5 +1,15 @@
 小　しょう
 国　こく
+（出典、https://ejje.weblio.jp/content/小国）
+
+読み方 割合                                                                                                  
+   おぐに 50.0%                                                                                                 
+   をぐに 33.3%                                                                                                 
+   オグニ 16.7% 
+  
+(seriously how the fuck is this usually pronounced? I would *guess* 小国 when alone and 小国 when part
+of a larger compound such as 小国町 because typing しょうこく in Mozc has a top suggestion of 小国, while
+typing おぐに has a top suggestion of 小国町 and the second suggestion is 小国.)
 
 小国
 Oguni; small country
