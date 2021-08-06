@@ -9,7 +9,16 @@
   
 (seriously, how is this usually pronounced? I would *guess* しょうこく when alone and おぐに when part
 of a larger compound such as 小国町 because typing しょうこく in Mozc has a top suggestion of 小国, while
-typing おぐに has a top suggestion of 小国町 and the second suggestion is 小国.)
+typing おぐに has a top suggestion of 小国町 and the second suggestion is 小国.
+NEVERMIND apparently it can be しょうこく in larger compounds, too, perhaps even more than おぐに. e.g.
+                                                                                                              
+       読み方      割合                                                                                         
+   しょうこくじん 100.0%
+(出典、furigana.info/w/小国人
+
+for 小国人 but Mozc only predicts that from おぐにじん!!!! mozc is of course not perfect and neither is
+furigana.info. weblio is the best bet but i am just confused pls 2 help
+                        )
 
 小国
 Oguni; small country
