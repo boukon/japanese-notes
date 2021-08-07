@@ -3,7 +3,7 @@
 termination; conclusion; end; close
 例文、「ELinksを終了してもよろしいですか？
 　　　　 [ はい (Y) ]   [ いいえ (N) ] 」
-(Did you know doas doesn't have a Japanese localization? That, or it doesn't follow the system locale.
+(Did you know that doas doesn't have a Japanese localization? That, or it doesn't follow the system locale.
 Either way, I'm back to sudo.)
 
 巷　ちまた
