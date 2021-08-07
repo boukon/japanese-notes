@@ -1,3 +1,10 @@
+噂　うわさ
+話　ばなし
+gossip; rumor
+
+噂　うわさ
+rumor; gossip
+
 ﾔﾅｷﾞ
 柳
 willow tree
