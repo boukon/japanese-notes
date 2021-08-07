@@ -22,8 +22,7 @@ gossip; rumor
 噂　うわさ
 rumor; gossip
 
-ﾔﾅｷﾞ
-柳
+柳　やなぎ
 willow tree
 
 蠢　うごめ
