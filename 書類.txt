@@ -1,3 +1,6 @@
+巷　ちまた
+street
+
 噂　うわさ
 話　ばなし
 gossip; rumor
@@ -11,10 +14,7 @@ willow tree
 
 蠢　うごめ
 く
-
-蠢く
 to wriggle; to squirm; to crawl like a worm
-
 
 クﾅｲ
 区内
