@@ -11,6 +11,10 @@
 
 物語　もの がたり　tale;fable;story　ejje/物語
 
+亡　し、ぼう　death
+心　こころ、しん　heart;soul;spirit
+忘れる　to forget
+
 芸術　げい じゅつ　art
 作品　さく ひん　work
 芸術作品　げい じゅつ  さく ひん　work of art (as in a literal piece of artwork)
