@@ -1,7 +1,9 @@
-怪　かい　strange;suspicious;;mysterious;wondrous;wonderful;;extraordinary;unusual
-　　　例語、妖怪
-　　あや　uncertain;suspicious;shady;mysterious;doubtful;orphic
-  　　例語、怪しい
+怪　かい　strangeness
+
+怪（漢字）かい　strange;suspicious;;mysterious;wondrous;wonderful;;extraordinary;unusual
+　　　　　　例語、妖怪
+　　　　　あや　uncertain;suspicious;shady;mysterious;doubtful;orphic
+  　　　　　例語、怪しい
 
 異名　い めい　synonym
 　　　い みょう　another name
