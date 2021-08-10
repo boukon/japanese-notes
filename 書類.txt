@@ -15,6 +15,7 @@
 作品　さく ひん　work
 芸術作品　げい じゅつ  さく ひん　work of art (as in a literal piece of artwork)
 
+描く　えがく　depict;describe;draw;portray;delineate;line;trace
 抽象　ちゅう しょう　abstraction; abstract
 抽象画　ちゅう しょう が　abstract image or picture (usually refers to abstract art)
 
