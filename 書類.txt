@@ -1,3 +1,20 @@
+物語　もの がたり　tale;fable;story　ejje/物語
+
+経験　けい けん　experience　ejje/経験
+　経験のない　けい けんのない　with no experience of doing　ejje/経験のない
+ 
+適用　てき よう　application　ejje/適用
+
+Ａできません　（適用できません）　not Ａ(polite)　経験
+
+適用できません　てき ようできません　not applicable　ejje/適用ません
+
+イセエビ｜伊勢海老 いせえび lobster
+
+学名　がく めい　scientific name (especially of a species)　英語wiktionary
+　例文、「イセエビの学名はPanulirus japonicusです。」
+　英語、「The scientific name of the Japanese spiny lobster is Panulirus japonicus.」
+
 イジﾜﾙ
 意地悪
 spite
