@@ -20,8 +20,10 @@
 
 怪盗　かい とう　mysterious thief; phantom thief
 
-次　つぎ　next
-血　ち　blood
+次元　じ げん　spatial dimension
+
+次　つぎ　next,following
+皿　さら　tray;dish;bowl
 盗　ぬす、とう　theft;larceny
 　盗む　ぬすむ　snatch;snatch up;lift;purloin 
 　　英語メモ、Think of purse theft and pickpocketing; that style of theft is this "nusumu."
