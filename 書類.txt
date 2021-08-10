@@ -24,6 +24,11 @@
 
 次元　じ げん　spatial dimension
 
+妖刀　よう とう　bewitched sword
+
+刀　かたな、-とう　katana;sword
+刃　は、やいば "any sharp and thin cutting implement: a blade, edge"（出典、英語wiktionary)
+
 次　つぎ　next,following
 皿　さら　tray;dish;bowl
 盗　ぬす、とう　theft;larceny
